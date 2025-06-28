@@ -1,0 +1,9 @@
+opencv-python
+matplotlib
+numpy
+easyocr
+ultralytics
+requests
+Pillow
+numpy
+streamlit
